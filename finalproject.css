@@ -1,0 +1,140 @@
+
+#background1 {
+	height: 100%;
+	background-size: 100%;
+}
+.turtle {
+
+position: absolute;
+left: 600px;
+bottom: 20px;
+height: 100px;
+width: 100px;
+
+}
+
+
+.plasticbottle {
+
+position: absolute;
+right: 600px;
+top: 250px;
+height: 75px; 
+width: 75px;
+
+}
+
+.plasticbag {
+
+position: absolute;
+right: 300px;
+top: 85px;
+height: 75px;
+width: 75px;
+
+
+}
+
+.can {
+
+position: absolute;
+left: 90px;
+bottom: 400px;
+height: 75px;
+width: 75px;	
+}
+    
+
+.tyre {
+
+position: absolute;
+left: 300px;
+bottom: 400px;
+width: 90px;
+height:90px;
+
+}
+
+
+.plasticbottle1 {
+
+position: absolute;
+left: 100px;
+bottom: 250px;
+height: 75px;
+width: 32px;
+
+}
+
+.plasticbag1 {
+
+position: absolute;
+left: 300px;
+bottom: 85px;
+height: 100px;
+width: 30px;
+
+
+}
+
+.can1 {
+
+position: absolute;
+right: 90px;
+top: 400px;
+height: 75px;
+width: 100px;	
+}
+
+
+.tyre1 {
+
+position: absolute;
+right: 300px;
+top: 400px;
+width: 70px;
+height:90px;
+
+}
+
+.plasticbottle2 {
+
+position: absolute;
+right: 100px;
+top: 250px;
+height: 75px;
+width: 90px;
+
+}
+
+.plasticbag2 {
+
+position: absolute;
+left: 300px;
+bottom: 85px;
+height: 75px;
+width: 40px;
+
+
+}
+
+.can2 {
+
+position: absolute;
+right: 90px;
+bottom: 400px;
+height: 100px;
+width: 100px;	
+}
+
+
+.tyre2 {
+
+position: absolute;
+left: 300px;
+top: 400px;
+width: 120px;
+height:90px;
+
+}
+
