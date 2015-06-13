@@ -106,7 +106,7 @@ function moveSelection(evt) {
 	checkcollision(document.getElementById("can"), document.getElementById("turtle"));
 	checkcollision(document.getElementById("tyre1"), document.getElementById("turtle"));
 		checkcollision(document.getElementById("plasticbag1"), document.getElementById("turtle"));
-	checkcollision(document.getElementById("plasticbotttle1"), document.getElementById("turtle"));
+	checkcollision(document.getElementById("plasticbottle1"), document.getElementById("turtle"));
 	checkcollision(document.getElementById("can1"), document.getElementById("turtle"));
 	checkcollision(document.getElementById("tyre2"), document.getElementById("turtle"));
 		checkcollision(document.getElementById("plasticbag2"), document.getElementById("turtle"));
